@@ -1,4 +1,4 @@
-#  Case Study: Driving Operational Efficiency through Data-Driven Insights  
+#  Case Study: Driving SBM Operational Efficiency through Data-Driven Insights  
 
 ## 🌍 Context  
 SBM Offshore, a global leader in floating production and offshore energy solutions, operates in a high-stakes environment where operational efficiency, compliance, and cost control are crucial. Managing complex datasets across engineering, operations, and finance requires robust analytics to guide business decisions, improve efficiency, and maintain governance.  
